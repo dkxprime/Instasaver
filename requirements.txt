@@ -1,4 +1,4 @@
-yt-dlp>=2026.4.8
+yt-dlp>=2026.3.17
 Flask
 python-telegram-bot==20.6
 tinydb
